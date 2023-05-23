@@ -1,0 +1,8 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_LesVariable_Projet_Scolarite\2_LesVariable_Projet_Scolarite\bin\Debug\2_LesVariable_Projet_Scolarite.exe.config
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_LesVariable_Projet_Scolarite\2_LesVariable_Projet_Scolarite\bin\Debug\2_LesVariable_Projet_Scolarite.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_LesVariable_Projet_Scolarite\2_LesVariable_Projet_Scolarite\bin\Debug\2_LesVariable_Projet_Scolarite.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_LesVariable_Projet_Scolarite\2_LesVariable_Projet_Scolarite\obj\Debug\2_LesVariable_Projet_Scolarite.csproj.AssemblyReference.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_LesVariable_Projet_Scolarite\2_LesVariable_Projet_Scolarite\obj\Debug\2_LesVariable_Projet_Scolarite.csproj.SuggestedBindingRedirects.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_LesVariable_Projet_Scolarite\2_LesVariable_Projet_Scolarite\obj\Debug\2_LesVariable_Projet_Scolarite.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_LesVariable_Projet_Scolarite\2_LesVariable_Projet_Scolarite\obj\Debug\2_LesVariable_Projet_Scolarite.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_LesVariable_Projet_Scolarite\2_LesVariable_Projet_Scolarite\obj\Debug\2_LesVariable_Projet_Scolarite.pdb

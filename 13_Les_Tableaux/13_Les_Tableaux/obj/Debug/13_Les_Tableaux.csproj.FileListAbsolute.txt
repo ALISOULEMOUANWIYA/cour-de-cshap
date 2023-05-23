@@ -1,0 +1,8 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\13_Les_Tableaux\13_Les_Tableaux\bin\Debug\13_Les_Tableaux.exe.config
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\13_Les_Tableaux\13_Les_Tableaux\bin\Debug\13_Les_Tableaux.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\13_Les_Tableaux\13_Les_Tableaux\bin\Debug\13_Les_Tableaux.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\13_Les_Tableaux\13_Les_Tableaux\obj\Debug\13_Les_Tableaux.csproj.AssemblyReference.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\13_Les_Tableaux\13_Les_Tableaux\obj\Debug\13_Les_Tableaux.csproj.SuggestedBindingRedirects.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\13_Les_Tableaux\13_Les_Tableaux\obj\Debug\13_Les_Tableaux.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\13_Les_Tableaux\13_Les_Tableaux\obj\Debug\13_Les_Tableaux.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\13_Les_Tableaux\13_Les_Tableaux\obj\Debug\13_Les_Tableaux.pdb

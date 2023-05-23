@@ -1,0 +1,8 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\1_Get_Stared\bin\Debug\1_Get_Stared.exe.config
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\1_Get_Stared\bin\Debug\1_Get_Stared.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\1_Get_Stared\bin\Debug\1_Get_Stared.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\1_Get_Stared\obj\Debug\1_Get_Stared.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\1_Get_Stared\obj\Debug\1_Get_Stared.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\1_Get_Stared\obj\Debug\1_Get_Stared.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\1_Get_Stared\obj\Debug\1_Get_Stared.csproj.AssemblyReference.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\1_Get_Stared\obj\Debug\1_Get_Stared.csproj.SuggestedBindingRedirects.cache

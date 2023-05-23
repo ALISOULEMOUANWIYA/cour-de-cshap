@@ -1,0 +1,8 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\20_Modificateurs_d_acces\20_Modificateurs_d_acces\obj\Debug\20_Modificateurs_d_acces.csproj.AssemblyReference.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\20_Modificateurs_d_acces\20_Modificateurs_d_acces\obj\Debug\20_Modificateurs_d_acces.csproj.SuggestedBindingRedirects.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\20_Modificateurs_d_acces\20_Modificateurs_d_acces\obj\Debug\20_Modificateurs_d_acces.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\20_Modificateurs_d_acces\20_Modificateurs_d_acces\bin\Debug\20_Modificateurs_d_acces.exe.config
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\20_Modificateurs_d_acces\20_Modificateurs_d_acces\bin\Debug\20_Modificateurs_d_acces.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\20_Modificateurs_d_acces\20_Modificateurs_d_acces\bin\Debug\20_Modificateurs_d_acces.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\20_Modificateurs_d_acces\20_Modificateurs_d_acces\obj\Debug\20_Modificateurs_d_acces.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\20_Modificateurs_d_acces\20_Modificateurs_d_acces\obj\Debug\20_Modificateurs_d_acces.pdb

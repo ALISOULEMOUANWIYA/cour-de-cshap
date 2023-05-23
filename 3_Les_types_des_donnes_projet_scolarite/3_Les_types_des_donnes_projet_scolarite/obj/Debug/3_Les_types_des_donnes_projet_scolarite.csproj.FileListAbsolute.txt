@@ -1,0 +1,8 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\3_Les_types_des_donnes_projet_scolarite\3_Les_types_des_donnes_projet_scolarite\bin\Debug\3_Les_types_des_donnes_projet_scolarite.exe.config
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\3_Les_types_des_donnes_projet_scolarite\3_Les_types_des_donnes_projet_scolarite\bin\Debug\3_Les_types_des_donnes_projet_scolarite.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\3_Les_types_des_donnes_projet_scolarite\3_Les_types_des_donnes_projet_scolarite\bin\Debug\3_Les_types_des_donnes_projet_scolarite.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\3_Les_types_des_donnes_projet_scolarite\3_Les_types_des_donnes_projet_scolarite\obj\Debug\3_Les_types_des_donnes_projet_scolarite.csproj.AssemblyReference.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\3_Les_types_des_donnes_projet_scolarite\3_Les_types_des_donnes_projet_scolarite\obj\Debug\3_Les_types_des_donnes_projet_scolarite.csproj.SuggestedBindingRedirects.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\3_Les_types_des_donnes_projet_scolarite\3_Les_types_des_donnes_projet_scolarite\obj\Debug\3_Les_types_des_donnes_projet_scolarite.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\3_Les_types_des_donnes_projet_scolarite\3_Les_types_des_donnes_projet_scolarite\obj\Debug\3_Les_types_des_donnes_projet_scolarite.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\3_Les_types_des_donnes_projet_scolarite\3_Les_types_des_donnes_projet_scolarite\obj\Debug\3_Les_types_des_donnes_projet_scolarite.pdb

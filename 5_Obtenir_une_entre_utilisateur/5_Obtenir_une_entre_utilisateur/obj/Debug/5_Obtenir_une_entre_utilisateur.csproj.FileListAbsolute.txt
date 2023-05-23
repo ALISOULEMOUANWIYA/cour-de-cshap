@@ -1,0 +1,8 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\5_Obtenir_une_entre_utilisateur\5_Obtenir_une_entre_utilisateur\bin\Debug\5_Obtenir_une_entre_utilisateur.exe.config
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\5_Obtenir_une_entre_utilisateur\5_Obtenir_une_entre_utilisateur\bin\Debug\5_Obtenir_une_entre_utilisateur.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\5_Obtenir_une_entre_utilisateur\5_Obtenir_une_entre_utilisateur\bin\Debug\5_Obtenir_une_entre_utilisateur.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\5_Obtenir_une_entre_utilisateur\5_Obtenir_une_entre_utilisateur\obj\Debug\5_Obtenir_une_entre_utilisateur.csproj.AssemblyReference.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\5_Obtenir_une_entre_utilisateur\5_Obtenir_une_entre_utilisateur\obj\Debug\5_Obtenir_une_entre_utilisateur.csproj.SuggestedBindingRedirects.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\5_Obtenir_une_entre_utilisateur\5_Obtenir_une_entre_utilisateur\obj\Debug\5_Obtenir_une_entre_utilisateur.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\5_Obtenir_une_entre_utilisateur\5_Obtenir_une_entre_utilisateur\obj\Debug\5_Obtenir_une_entre_utilisateur.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\5_Obtenir_une_entre_utilisateur\5_Obtenir_une_entre_utilisateur\obj\Debug\5_Obtenir_une_entre_utilisateur.pdb

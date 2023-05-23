@@ -1,0 +1,8 @@
+C:\Users\MOUANWIYA Ali Soule\source\repos\21_Getter_et_Setter\21_Getter_et_Setter\bin\Debug\21_Getter_et_Setter.exe.config
+C:\Users\MOUANWIYA Ali Soule\source\repos\21_Getter_et_Setter\21_Getter_et_Setter\bin\Debug\21_Getter_et_Setter.exe
+C:\Users\MOUANWIYA Ali Soule\source\repos\21_Getter_et_Setter\21_Getter_et_Setter\bin\Debug\21_Getter_et_Setter.pdb
+C:\Users\MOUANWIYA Ali Soule\source\repos\21_Getter_et_Setter\21_Getter_et_Setter\obj\Debug\21_Getter_et_Setter.csproj.AssemblyReference.cache
+C:\Users\MOUANWIYA Ali Soule\source\repos\21_Getter_et_Setter\21_Getter_et_Setter\obj\Debug\21_Getter_et_Setter.csproj.SuggestedBindingRedirects.cache
+C:\Users\MOUANWIYA Ali Soule\source\repos\21_Getter_et_Setter\21_Getter_et_Setter\obj\Debug\21_Getter_et_Setter.csproj.CoreCompileInputs.cache
+C:\Users\MOUANWIYA Ali Soule\source\repos\21_Getter_et_Setter\21_Getter_et_Setter\obj\Debug\21_Getter_et_Setter.exe
+C:\Users\MOUANWIYA Ali Soule\source\repos\21_Getter_et_Setter\21_Getter_et_Setter\obj\Debug\21_Getter_et_Setter.pdb

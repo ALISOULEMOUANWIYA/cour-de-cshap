@@ -1,0 +1,14 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\Calculator\Calculator\bin\Debug\Guna.UI2.dll
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\Calculator\Calculator\obj\Debug\Calculator.UserControls.UC_CalculeSci.resources
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\Calculator\Calculator\obj\Debug\Calculator.Andy.resources
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache

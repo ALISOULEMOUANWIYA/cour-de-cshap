@@ -1,0 +1,8 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\9_Les_Booleans\9_Les_Booleans\bin\Debug\9_Les_Booleans.exe.config
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\9_Les_Booleans\9_Les_Booleans\bin\Debug\9_Les_Booleans.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\9_Les_Booleans\9_Les_Booleans\bin\Debug\9_Les_Booleans.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\9_Les_Booleans\9_Les_Booleans\obj\Debug\9_Les_Booleans.csproj.AssemblyReference.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\9_Les_Booleans\9_Les_Booleans\obj\Debug\9_Les_Booleans.csproj.SuggestedBindingRedirects.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\9_Les_Booleans\9_Les_Booleans\obj\Debug\9_Les_Booleans.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\9_Les_Booleans\9_Les_Booleans\obj\Debug\9_Les_Booleans.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\9_Les_Booleans\9_Les_Booleans\obj\Debug\9_Les_Booleans.pdb

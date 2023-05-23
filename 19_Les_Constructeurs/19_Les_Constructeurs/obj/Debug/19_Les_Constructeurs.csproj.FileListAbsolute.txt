@@ -1,0 +1,7 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\19_Les_Constructeurs\19_Les_Constructeurs\bin\Debug\19_Les_Constructeurs.exe.config
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\19_Les_Constructeurs\19_Les_Constructeurs\bin\Debug\19_Les_Constructeurs.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\19_Les_Constructeurs\19_Les_Constructeurs\bin\Debug\19_Les_Constructeurs.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\19_Les_Constructeurs\19_Les_Constructeurs\obj\Debug\19_Les_Constructeurs.csproj.SuggestedBindingRedirects.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\19_Les_Constructeurs\19_Les_Constructeurs\obj\Debug\19_Les_Constructeurs.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\19_Les_Constructeurs\19_Les_Constructeurs\obj\Debug\19_Les_Constructeurs.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\19_Les_Constructeurs\19_Les_Constructeurs\obj\Debug\19_Les_Constructeurs.pdb

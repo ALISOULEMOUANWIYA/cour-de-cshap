@@ -1,0 +1,8 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\22_Les_Heritages\22_Les_Heritages\obj\Debug\22_Les_Heritages.csproj.AssemblyReference.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\22_Les_Heritages\22_Les_Heritages\obj\Debug\22_Les_Heritages.csproj.SuggestedBindingRedirects.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\22_Les_Heritages\22_Les_Heritages\obj\Debug\22_Les_Heritages.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\22_Les_Heritages\22_Les_Heritages\bin\Debug\22_Les_Heritages.exe.config
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\22_Les_Heritages\22_Les_Heritages\bin\Debug\22_Les_Heritages.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\22_Les_Heritages\22_Les_Heritages\bin\Debug\22_Les_Heritages.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\22_Les_Heritages\22_Les_Heritages\obj\Debug\22_Les_Heritages.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\22_Les_Heritages\22_Les_Heritages\obj\Debug\22_Les_Heritages.pdb

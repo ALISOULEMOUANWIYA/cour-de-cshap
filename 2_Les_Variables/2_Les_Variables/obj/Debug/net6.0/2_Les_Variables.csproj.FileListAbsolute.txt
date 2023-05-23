@@ -1,0 +1,15 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_Les_Variables\2_Les_Variables\bin\Debug\net6.0\2_Les_Variables.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_Les_Variables\2_Les_Variables\bin\Debug\net6.0\2_Les_Variables.deps.json
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_Les_Variables\2_Les_Variables\bin\Debug\net6.0\2_Les_Variables.runtimeconfig.json
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_Les_Variables\2_Les_Variables\bin\Debug\net6.0\2_Les_Variables.dll
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_Les_Variables\2_Les_Variables\bin\Debug\net6.0\ref\2_Les_Variables.dll
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_Les_Variables\2_Les_Variables\bin\Debug\net6.0\2_Les_Variables.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_Les_Variables\2_Les_Variables\obj\Debug\net6.0\2_Les_Variables.csproj.AssemblyReference.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_Les_Variables\2_Les_Variables\obj\Debug\net6.0\2_Les_Variables.GeneratedMSBuildEditorConfig.editorconfig
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_Les_Variables\2_Les_Variables\obj\Debug\net6.0\2_Les_Variables.AssemblyInfoInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_Les_Variables\2_Les_Variables\obj\Debug\net6.0\2_Les_Variables.AssemblyInfo.cs
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_Les_Variables\2_Les_Variables\obj\Debug\net6.0\2_Les_Variables.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_Les_Variables\2_Les_Variables\obj\Debug\net6.0\2_Les_Variables.dll
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_Les_Variables\2_Les_Variables\obj\Debug\net6.0\ref\2_Les_Variables.dll
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_Les_Variables\2_Les_Variables\obj\Debug\net6.0\2_Les_Variables.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\2_Les_Variables\2_Les_Variables\obj\Debug\net6.0\2_Les_Variables.genruntimeconfig.cache

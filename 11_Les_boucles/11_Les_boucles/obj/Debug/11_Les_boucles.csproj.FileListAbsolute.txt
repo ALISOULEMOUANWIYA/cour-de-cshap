@@ -1,0 +1,8 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\11_Les_boucles\11_Les_boucles\bin\Debug\11_Les_boucles.exe.config
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\11_Les_boucles\11_Les_boucles\bin\Debug\11_Les_boucles.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\11_Les_boucles\11_Les_boucles\bin\Debug\11_Les_boucles.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\11_Les_boucles\11_Les_boucles\obj\Debug\11_Les_boucles.csproj.AssemblyReference.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\11_Les_boucles\11_Les_boucles\obj\Debug\11_Les_boucles.csproj.SuggestedBindingRedirects.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\11_Les_boucles\11_Les_boucles\obj\Debug\11_Les_boucles.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\11_Les_boucles\11_Les_boucles\obj\Debug\11_Les_boucles.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\11_Les_boucles\11_Les_boucles\obj\Debug\11_Les_boucles.pdb

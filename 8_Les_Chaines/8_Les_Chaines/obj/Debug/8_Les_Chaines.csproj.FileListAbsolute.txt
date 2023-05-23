@@ -1,0 +1,8 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\8_Les_Chaines\8_Les_Chaines\bin\Debug\8_Les_Chaines.exe.config
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\8_Les_Chaines\8_Les_Chaines\bin\Debug\8_Les_Chaines.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\8_Les_Chaines\8_Les_Chaines\bin\Debug\8_Les_Chaines.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\8_Les_Chaines\8_Les_Chaines\obj\Debug\8_Les_Chaines.csproj.AssemblyReference.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\8_Les_Chaines\8_Les_Chaines\obj\Debug\8_Les_Chaines.csproj.SuggestedBindingRedirects.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\8_Les_Chaines\8_Les_Chaines\obj\Debug\8_Les_Chaines.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\8_Les_Chaines\8_Les_Chaines\obj\Debug\8_Les_Chaines.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\8_Les_Chaines\8_Les_Chaines\obj\Debug\8_Les_Chaines.pdb

@@ -1,0 +1,8 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\7_La_classe_Math\7_La_classe_Math\obj\Debug\7_La_classe_Math.csproj.AssemblyReference.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\7_La_classe_Math\7_La_classe_Math\obj\Debug\7_La_classe_Math.csproj.SuggestedBindingRedirects.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\7_La_classe_Math\7_La_classe_Math\obj\Debug\7_La_classe_Math.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\7_La_classe_Math\7_La_classe_Math\bin\Debug\7_La_classe_Math.exe.config
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\7_La_classe_Math\7_La_classe_Math\bin\Debug\7_La_classe_Math.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\7_La_classe_Math\7_La_classe_Math\bin\Debug\7_La_classe_Math.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\7_La_classe_Math\7_La_classe_Math\obj\Debug\7_La_classe_Math.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\7_La_classe_Math\7_La_classe_Math\obj\Debug\7_La_classe_Math.pdb

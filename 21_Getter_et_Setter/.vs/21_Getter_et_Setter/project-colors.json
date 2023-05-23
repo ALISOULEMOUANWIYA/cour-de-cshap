@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    },
+    "df5c001f-4afe-4648-8480-30564b39d69d": {
+      "ProjectGuid": "df5c001f-4afe-4648-8480-30564b39d69d",
+      "DisplayName": "21_Getter_et_Setter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

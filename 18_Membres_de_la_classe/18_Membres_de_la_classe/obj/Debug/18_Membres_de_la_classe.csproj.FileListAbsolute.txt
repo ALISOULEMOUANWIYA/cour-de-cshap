@@ -1,0 +1,8 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\18_Membres_de_la_classe\18_Membres_de_la_classe\bin\Debug\18_Membres_de_la_classe.exe.config
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\18_Membres_de_la_classe\18_Membres_de_la_classe\bin\Debug\18_Membres_de_la_classe.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\18_Membres_de_la_classe\18_Membres_de_la_classe\bin\Debug\18_Membres_de_la_classe.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\18_Membres_de_la_classe\18_Membres_de_la_classe\obj\Debug\18_Membres_de_la_classe.csproj.AssemblyReference.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\18_Membres_de_la_classe\18_Membres_de_la_classe\obj\Debug\18_Membres_de_la_classe.csproj.SuggestedBindingRedirects.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\18_Membres_de_la_classe\18_Membres_de_la_classe\obj\Debug\18_Membres_de_la_classe.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\18_Membres_de_la_classe\18_Membres_de_la_classe\obj\Debug\18_Membres_de_la_classe.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\18_Membres_de_la_classe\18_Membres_de_la_classe\obj\Debug\18_Membres_de_la_classe.pdb

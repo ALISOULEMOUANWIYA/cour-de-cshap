@@ -1,0 +1,8 @@
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\17_Classe_et_Objets\17_Classe_et_Objets\bin\Debug\17_Classe_et_Objets.exe.config
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\17_Classe_et_Objets\17_Classe_et_Objets\bin\Debug\17_Classe_et_Objets.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\17_Classe_et_Objets\17_Classe_et_Objets\bin\Debug\17_Classe_et_Objets.pdb
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\17_Classe_et_Objets\17_Classe_et_Objets\obj\Debug\17_Classe_et_Objets.csproj.AssemblyReference.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\17_Classe_et_Objets\17_Classe_et_Objets\obj\Debug\17_Classe_et_Objets.csproj.SuggestedBindingRedirects.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\17_Classe_et_Objets\17_Classe_et_Objets\obj\Debug\17_Classe_et_Objets.csproj.CoreCompileInputs.cache
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\17_Classe_et_Objets\17_Classe_et_Objets\obj\Debug\17_Classe_et_Objets.exe
+F:\tuto geni-logiciel L1\Tutoriel C# en Français\cours C#\17_Classe_et_Objets\17_Classe_et_Objets\obj\Debug\17_Classe_et_Objets.pdb
